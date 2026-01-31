@@ -1,3 +1,5 @@
 # Data Science
 
-A data science repo with detailed walkthroughes of projects.
+## Setup
+
+Add your KAGGLE_API_TOKEN to your environment variables.
