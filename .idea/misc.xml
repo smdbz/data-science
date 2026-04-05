@@ -4,4 +4,7 @@
     <option name="sdkName" value="uv (data-science)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="uv (data-science) (2)" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
 </project>
