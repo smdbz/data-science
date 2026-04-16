@@ -1,0 +1,1 @@
+My notebook created following the book "Python for Data Analysis" by Wes McKinney.
